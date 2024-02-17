@@ -1,6 +1,7 @@
 # chatting_app
 
 A new Flutter project.
+강의를 들으며 함께 구현해본 chatting app 프로젝트.
 
 ## Getting Started
 
